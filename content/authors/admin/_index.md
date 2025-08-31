@@ -3,18 +3,18 @@
 title: Laurin Tirpitz
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Laurin
 last_name: Tirpitz
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: they/them
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master's Graduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Humboldt University of Berlin
+    url: https://qis.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&keep=y&publishSubDir=personal&personal.pid=32747
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:laurin2404@googlemail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
