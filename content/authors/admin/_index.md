@@ -87,8 +87,6 @@ education:
       - Introduction to Feminist Epistemology, Metaphysics, and Philosophy of Science
       - "Resisting Reality" - Sally Haslangers feminist metaphysics
       - Political theory and history of ideas
-
-
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
