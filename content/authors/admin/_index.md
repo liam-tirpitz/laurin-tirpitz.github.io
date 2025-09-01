@@ -91,9 +91,9 @@ education:
       Thesis (1,5): Context matters. How the categories dominant context and resistant context help theorizing gender
       
       Supervised by [Jan Voosholz](https://www.cst.uni-bonn.de/de/personen/jan-voosholz) and [Apolline Taillandier](https://www.cst.uni-bonn.de/de/personen/apolline-taillandier).
-    # button:
-    #   text: Read Thesis
-    #   url: resume.pdf
+    button:
+      text: Read Thesis
+      url: ../uploads/Bachelor.pdf
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
