@@ -63,8 +63,6 @@ education:
     date_end: 2025-07-31
     summary: |
       Grade: 1,2
-
-      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/).
       
       Courses included:
       - Trans Philosophy
@@ -72,21 +70,30 @@ education:
       - Critical Agency
       - Philosophy of Sex 
 
+      Thesis (1,0): "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent"
+      Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/).
+
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url:  uploads/resume.pdf
       
   - area: Bachelor of Arts Philosophy
     institution: University of Bonn
     date_start: 2018-10-01
     date_end: 2021-09-30
     summary: |
-      Grade: 1,5
+      Grade: 1,6
 
       Courses included:
       - Introduction to Feminist Epistemology, Metaphysics, and Philosophy of Science
       - "Resisting Reality" - Sally Haslangers feminist metaphysics
       - Political theory and history of ideas
+
+      Thesis (1,5): Context matters. How the categories dominant context and resistant context help theorizing gender
+      Supervised by [Jan Voosholz](https://www.cst.uni-bonn.de/de/personen/jan-voosholz) and [Apolline Taillandier](https://www.cst.uni-bonn.de/de/personen/apolline-taillandier).
+    button:
+      text: 'Read Thesis'
+      url: 'uploads/resume.pdf'
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
