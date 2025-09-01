@@ -36,14 +36,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My current goal is to bring asexuality studies into feminist philosophy, build bridges between those two and ultimately help create the field of feminist asexual philosophy. I believe that philosophy can bring a lot to asexuality studies, but also that philosophers have much to learn. If this is a project that you are interested in participating, no matter your current knowledge, feel free to contact me.
     design:
       columns: '1'
   - block: collection

@@ -87,17 +87,6 @@ education:
       - Introduction to Feminist Epistemology, Metaphysics, and Philosophy of Science
       - "Resisting Reality" - Sally Haslangers feminist metaphysics
       - Political theory and history of ideas
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -198,4 +187,4 @@ awards:
 
 ## About Me
 
-Laurin Tirpitz just finished their master in philosophy at the Humboldt University of Berlin. Their primary interests are social philosophy, feminist philosophy, and since last year, asexuality studies. The talk is based on their master's thesis, which was titled "The Joy of Consent and the Misery of Compulsory Sexuality". Their current goal is to build bridges between asexuality studies, feminist philosophy and everyone that contributes to emancipatory struggles
+Laurin Tirpitz just finished their master in philosophy at the Humboldt University of Berlin. Their primary interests are social philosophy, feminist philosophy, and asexuality studies, as their master's thesis, which is titled "The Joy of Consent and the Misery of Compulsory Sexuality" perfectly showcases the intersection of these interests.
