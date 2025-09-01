@@ -77,9 +77,9 @@ education:
       url: 'https://example.com'
       
   - area: Bachelor of Arts Philosophy with Minor Politics and Society
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: University of Bonn
+    date_start: 2018-10-01
+    date_end: 2021-09-31
     summary: |
       GPA: 3.8/4.0
 
