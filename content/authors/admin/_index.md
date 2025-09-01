@@ -64,7 +64,7 @@ education:
     summary: |
       Grade: 1,2
 
-      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller] (https://mirjammueller.net/) and [Ela Przybyło] (https://przybyloela.wordpress.com/).
+      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/).
       
       Courses included:
       - Trans Philosophy
