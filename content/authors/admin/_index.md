@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master's Graduate
+role: Asexuality Studies Scholar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -36,31 +36,33 @@ profiles:
   - icon: at-symbol
     url: 'mailto:laurin2404@googlemail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Asexuality
+  - Aromanticism
+  - Feminist Philosophy
+  - Trans Philosophy
+  - Social Philosophy
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Arts Philosophy
+    institution: Humboldt University of Berlin
+    date_start: 2021-10-01
+    date_end: 2025-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Prof Mirjam Müller] and [Prof Ela Przybyło] (https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
