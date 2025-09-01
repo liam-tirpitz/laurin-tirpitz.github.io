@@ -33,8 +33,8 @@ featured: true
     #arxiv: 1512.04133v1
 
 links:
-- type: pdf
-  url: "content/publication/Master/Master.pdf"
+#- type: pdf
+#  url: "content/publication/Master/Master.pdf"
 
 
 # Featured image
