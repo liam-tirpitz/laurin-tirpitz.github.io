@@ -57,40 +57,39 @@ interests:
   - Social Philosophy
 
 education:
-  - area: Master's Thesis
-    institution: Humboldt University of Berlin
-    date_start: 2024-12-01
-    date_end: 2025-07-31
-    summary: |
-      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/) . 
-  button:
-        text: 'Read Thesis'
-        url: 'https://mirjammueller.net/'
-
   - area: Master of Arts Philosophy
     institution: Humboldt University of Berlin
     date_start: 2021-10-01
     date_end: 2025-07-31
     summary: |
-        Grade: 1,2
+      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller] (https://example.com) and [Ela Przybyło] (https://przybyloela.wordpress.com/) . 
+      [I'm an external link](https://www.google.com) Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller](https://example.com) and [Ela Przybyło](https://przybyloela.wordpress.com/) . 
 
-        Courses included:
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-
-  - area: Bachelor of Arts
-    institution: Rheinische Friedrich-Wilhelms-Universität Bonn
-    date_start: 2018-10-01
-    date_end: 2021-09-31
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Grade: 1,5
+      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
