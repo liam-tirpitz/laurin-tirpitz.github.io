@@ -75,8 +75,8 @@ education:
 
     button:
       text: 'Read Thesis'
-      url:  'uploads/Master.pdf'
-      
+      url:  {{% staticref "uploads/Master.pdf" "newtab" %}}
+    #  {{% staticref "uploads/Master.pdf" "newtab" %}}Download my CV{{% /staticref %}}
   - area: Bachelor of Arts Philosophy
     institution: University of Bonn
     date_start: 2018-10-01
