@@ -62,7 +62,8 @@ education:
     date_start: 2021-10-01
     date_end: 2025-07-31
     summary: |
-      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Prof Mirjam Müller] and [Prof Ela Przybyło] (https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller] (https://example.com) and [Ela Przybyło] (https://przybyloela.wordpress.com/) . 
+      
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
