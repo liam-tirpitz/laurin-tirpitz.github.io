@@ -79,7 +79,7 @@ education:
   - area: Bachelor of Arts Philosophy with Minor Politics and Society
     institution: University of Bonn
     date_start: 2018-10-01
-    date_end: 2021-09-31
+    date_end: 2021-09-30
     summary: |
       GPA: 3.8/4.0
 
