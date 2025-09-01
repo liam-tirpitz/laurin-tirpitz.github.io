@@ -71,12 +71,12 @@ education:
       - Philosophy of Sex 
 
       Thesis (1,0): "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent"
-      Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/).
+      Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/). {{% staticref "uploads/Master.pdf" "newtab" %}}Download my thesis here{{% /staticref %}}
 
     button:
       text: 'Read Thesis'
       url_:  'master.pdf'
-    #  {{% staticref "uploads/Master.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+      
   - area: Bachelor of Arts Philosophy
     institution: University of Bonn
     date_start: 2018-10-01
