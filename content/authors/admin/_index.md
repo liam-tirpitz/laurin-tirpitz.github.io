@@ -74,7 +74,7 @@ education:
       Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/). 
     button:
       text: Read Thesis
-      url:  master.pdf
+      url_:  uploads/master.pdf
       
   - area: Bachelor of Arts Philosophy
     institution: University of Bonn
@@ -92,7 +92,7 @@ education:
       Supervised by [Jan Voosholz](https://www.cst.uni-bonn.de/de/personen/jan-voosholz) and [Apolline Taillandier](https://www.cst.uni-bonn.de/de/personen/apolline-taillandier).
     button:
       text: Read Thesis
-      url: uploads/resume.pdf
+      url_: uploads/resume.pdf
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
