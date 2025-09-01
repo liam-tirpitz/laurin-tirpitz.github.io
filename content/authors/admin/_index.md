@@ -74,7 +74,7 @@ education:
       Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/). 
     button:
       text: Read Thesis
-      url:  master.pdf
+      url:  http://laurin.tirpitz.me/uploads/Master.pdf
       
   - area: Bachelor of Arts Philosophy
     institution: University of Bonn
