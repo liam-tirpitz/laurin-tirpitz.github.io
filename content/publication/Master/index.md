@@ -2,7 +2,7 @@
 title: "Master's thesis"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-05-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -10,13 +10,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "The Joy of Consent and the misery of Compulsory Sexuality. Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s The Joy of Consent"
+publication_short: "The Joy of Consent and the misery of Compulsory Sexuality"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this thesis, I argue that feminist philosophers of sex have failed to take the oppressive system of compulsory sexuality seriously. This ommission is dangerous for asexual and nonsexual people. Drawing on Przybyło's work in the book Asexual Erotics, I show how compulsory sexuality influences current theorization on sexual consent. I do so by showing how Manon Garcia's analysis in The Joy of Consent ultimately reproduces compulsory sexuality. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
