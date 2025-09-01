@@ -75,7 +75,7 @@ education:
 
     button:
       text: 'Read Thesis'
-      url:  % staticref "uploads/Master.pdf" "newtab" %
+      url:  "uploads/Master.pdf"
     #  {{% staticref "uploads/Master.pdf" "newtab" %}}Download my CV{{% /staticref %}}
   - area: Bachelor of Arts Philosophy
     institution: University of Bonn
