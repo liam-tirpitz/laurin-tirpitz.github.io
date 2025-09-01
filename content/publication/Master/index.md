@@ -1,5 +1,5 @@
 ---
-title: "Master's thesis"
+title: "The Joy of Consent and the misery of Compulsory Sexuality"
 authors:
 - admin
 date: "2025-05-07T00:00:00Z"
@@ -22,7 +22,9 @@ abstract: In this thesis, I argue that feminist philosophers of sex have failed 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Consent
+- Asexuality
+- Feminist Philosophy
 
 featured: true
 
@@ -31,24 +33,9 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+- type: pdf
+  url: "content/publication/Master/Master.pdf"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
