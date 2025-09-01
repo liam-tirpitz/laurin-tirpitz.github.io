@@ -81,12 +81,12 @@ education:
     date_start: 2018-10-01
     date_end: 2021-09-30
     summary: |
-      GPA: 3.8/4.0
+      Grade: 1,5
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Introduction to Feminist Epistemology, Metaphysics, and Philosophy of Science
+      - "Resisting Reality" - Sally Haslangers feminist metaphysics
+      - Political theory and history of ideas
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
