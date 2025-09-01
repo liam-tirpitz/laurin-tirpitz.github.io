@@ -71,8 +71,7 @@ education:
       - Philosophy of Sex 
 
       Thesis (1,0): "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent"
-      Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/). {{% staticref "uploads/Master.pdf" "newtab" %}}Download my thesis here{{% /staticref %}}
-
+      Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/). 
     button:
       text: 'Read Thesis'
       url_:  'master.pdf'
@@ -194,4 +193,4 @@ education:
 
 ## About Me
 
-Laurin Tirpitz just finished their master in philosophy at the Humboldt University of Berlin. Their primary interests are social philosophy, feminist philosophy, and asexuality studies, as their master's thesis, which is titled "The Joy of Consent and the Misery of Compulsory Sexuality" perfectly showcases the intersection of these interests.
+Laurin Tirpitz just finished their master in philosophy at the Humboldt University of Berlin. Their primary interests are social philosophy, feminist philosophy, and asexuality studies. They showcase what the intersection of these fields can look like in their master's thesis, which is titled "The Joy of Consent and the Misery of Compulsory Sexuality".
