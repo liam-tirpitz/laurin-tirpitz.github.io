@@ -75,7 +75,7 @@ education:
 
     button:
       text: 'Read Thesis'
-      url:  /workspaces/laurin-tirpitz.github.io/static/uploads/Master.pdf
+      url:  static/uploads/Master.pdf
       
   - area: Bachelor of Arts Philosophy
     institution: University of Bonn
