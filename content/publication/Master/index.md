@@ -10,7 +10,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The Joy of Consent and the misery of Compulsory Sexuality. Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s The Joy of Consent"
@@ -19,11 +19,11 @@ publication_short: "The Joy of Consent and the misery of Compulsory Sexuality"
 abstract: In this thesis, I argue that feminist philosophers of sex have failed to take the oppressive system of compulsory sexuality seriously. This ommission is dangerous for asexual and nonsexual people. Drawing on Przybyło's work in the book Asexual Erotics, I show how compulsory sexuality influences current theorization on sexual consent. I do so by showing how Manon Garcia's analysis in The Joy of Consent ultimately reproduces compulsory sexuality. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Why feminist philosophers of sex need to learn from Asexuality Studies.
 
 tags:
-- Consent
 - Asexuality
+- Consent
 - Feminist Philosophy
 
 featured: true
@@ -49,21 +49,21 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+#projects:
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+#slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+#This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
