@@ -75,7 +75,7 @@ education:
 
     button:
       text: 'Read Thesis'
-      url:  uploads/resume.pdf
+      url:  master.pdf
       
   - area: Bachelor of Arts Philosophy
     institution: University of Bonn
