@@ -57,7 +57,7 @@ interests:
   - Social Philosophy
 
 education:
-- area: Master's Thesis
+  - area: Master's Thesis
     institution: Humboldt University of Berlin
     date_start: 2024-12-01
     date_end: 2025-07-31
@@ -67,7 +67,7 @@ education:
         #text: 'Read Thesis'
         #url_code: ''
 
-- area: Master of Arts Philosophy
+  - area: Master of Arts Philosophy
     institution: Humboldt University of Berlin
     date_start: 2021-10-01
     date_end: 2025-07-31
@@ -79,7 +79,7 @@ education:
         - lorem ipsum dolor sit amet, consectetur adipiscing elit
         - lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
-- area: Bachelor of Arts
+  - area: Bachelor of Arts
     institution: Rheinische Friedrich-Wilhelms-Universität Bonn
     date_start: 2018-10-01
     date_end: 2021-09-31
