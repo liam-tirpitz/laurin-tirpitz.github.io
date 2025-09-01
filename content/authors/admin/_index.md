@@ -64,27 +64,40 @@ education:
     summary: |
       Grade: 1,2
 
-      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller](https://example.com) and [Ela Przybyło](https://przybyloela.wordpress.com/).
+      Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller] (https://mirjammueller.net/) and [Ela Przybyło] (https://przybyloela.wordpress.com/).
       
       Courses included:
       - Trans Philosophy
       - Ontic Injustice
       - Critical Agency
       - Philosophy of Sex 
+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Bachelor of Arts Philosophy (Minor Politic and Society)
-    institution: University of Bonn 
-    date_start: 2018-10-01
-    date_end: 2021-09-31
+      
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Grade: 1,5
+      GPA: 3.8/4.0
 
       Courses included:
-      - Introduction to Feminist Epistemology, Metaphysics, and Philosophy of Science
-      - "Resisting Reality" - Sally Haslangers feminist metaphysics
-      - Political theory and history of ideas
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -185,4 +198,4 @@ awards:
 
 ## About Me
 
-Laurin Tirpitz just finished their master in philosophy at the Humboldt University of Berlin. Their primary interests are social philosophy, feminist philosophy, and since last year, asexuality studies. Their master's thesis, which is titled "The Joy of Consent and the Misery of Compulsory Sexuality" highlights their current goal: to build bridges between asexuality studies and feminist philosophy, and to ultimately carve out space for a new field: feminist asexual philosophy.
+Laurin Tirpitz just finished their master in philosophy at the Humboldt University of Berlin. Their primary interests are social philosophy, feminist philosophy, and since last year, asexuality studies. The talk is based on their master's thesis, which was titled "The Joy of Consent and the Misery of Compulsory Sexuality". Their current goal is to build bridges between asexuality studies, feminist philosophy and everyone that contributes to emancipatory struggles
