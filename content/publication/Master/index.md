@@ -28,6 +28,8 @@ tags:
 
 featured: true
 
+url_code: "master.pdf"
+
 #hugoblox:
   #ids:
     #arxiv: 1512.04133v1

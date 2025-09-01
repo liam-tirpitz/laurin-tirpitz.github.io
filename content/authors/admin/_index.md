@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Asexuality Studies Scholar
+role: Philosopher/Asexuality Studies Scholar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -76,7 +76,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
       
-  - area: Bachelor of Arts Philosophy with Minor Politics and Society
+  - area: Bachelor of Arts Philosophy
     institution: University of Bonn
     date_start: 2018-10-01
     date_end: 2021-09-30
