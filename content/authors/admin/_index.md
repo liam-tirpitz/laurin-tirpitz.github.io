@@ -63,7 +63,7 @@ education:
     date_end: 2025-07-31
     summary: |
       Thesis on "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent" Supervised by [Mirjam Müller] (https://example.com) and [Ela Przybyło] (https://przybyloela.wordpress.com/) . 
-      
+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Laurin Tirpitz just finished their master in philosophy at the Humboldt University of Berlin. Their primary interests are social philosophy, feminist philosophy, and since last year, asexuality studies. The talk is based on their master's thesis, which was titled "The Joy of Consent and the Misery of Compulsory Sexuality". Their current goal is to build bridges between asexuality studies, feminist philosophy and everyone that contributes to emancipatory struggles
