@@ -71,11 +71,9 @@ education:
       - Ontic Injustice
       - Critical Agency
       - Philosophy of Sex 
-
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-
   - area: Bachelor of Arts Philosophy (Minor Politic and Society)
     institution: University of Bonn 
     date_start: 2018-10-01
