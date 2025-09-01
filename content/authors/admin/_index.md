@@ -73,8 +73,8 @@ education:
       Thesis (1,0): "The Joy of Consent" and the misery of Compulsory Sexuality Living a (non)sexual good Life: An Asexual Perspective on Manon Garcia’s "The Joy of Consent"
       Supervised by [Mirjam Müller](https://mirjammueller.net/) and [Ela Przybyło](https://przybyloela.wordpress.com/). 
     button:
-      text: 'Read Thesis'
-      url_:  'master.pdf'
+      text: Read Thesis
+      url:  master.pdf
       
   - area: Bachelor of Arts Philosophy
     institution: University of Bonn
@@ -91,8 +91,8 @@ education:
       Thesis (1,5): Context matters. How the categories dominant context and resistant context help theorizing gender
       Supervised by [Jan Voosholz](https://www.cst.uni-bonn.de/de/personen/jan-voosholz) and [Apolline Taillandier](https://www.cst.uni-bonn.de/de/personen/apolline-taillandier).
     button:
-      text: 'Read Thesis'
-      url: 'uploads/resume.pdf'
+      text: Read Thesis
+      url: uploads/resume.pdf
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
